@@ -1,8 +1,6 @@
 # ERP-Portal
 Join our friendly GitHub repository for Hacktoberfest and contribute your skills to make a positive impact!
 
-# ERP Portal
-
  ERP Portal is an enterprise resource planning (ERP) system designed to manage essential business operations efficiently. It offers multiple user roles and features tailored for administrators, users, and employees, streamlining authentication, employee and user management, and profile handling.
 
 ## Features:
